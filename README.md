@@ -35,7 +35,7 @@ Mi objetivo es seguir desarrollándome en el área de **Ingeniería de Datos**, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:luis.a.v9@hotmail.com">
+  <a href="mailto:luis.asun14@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
   </a>
 </p>
